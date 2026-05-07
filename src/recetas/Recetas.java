@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-
+//holita
 class ConnectionSingleton {
 	private static Connection con;
 
