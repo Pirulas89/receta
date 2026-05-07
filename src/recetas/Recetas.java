@@ -20,6 +20,8 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 //hola
+
+//pepardo
 class ConnectionSingleton {
 	private static Connection con;
 
