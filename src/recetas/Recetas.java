@@ -18,7 +18,10 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+//pepito
+//hola
 
+//pepardo
 class ConnectionSingleton {
 	private static Connection con;
 
